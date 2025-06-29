@@ -191,7 +191,8 @@ def main():
                 print("Invalid folder path.")
                 continue
             paths = convert_to_static_list(folder_path)
-
+        elif choice == '3':
+            break
         else:
             print("Please enter a valid choice number (1, 2, or 3)")
             continue 

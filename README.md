@@ -22,7 +22,7 @@ python indexer.py
 Option	                Description
 --json	                Output the directory tree as a JSON object
 --sort-by-name	        Sort items by name (default is enabled)
---sort-by-extension	    Sort files by extension
+--sort-by-extension	Sort files by extension
 --group-by-type	        Group files by type (e.g., [IMG], [DOC], [PY])
 --label-files	        Add labels like [IMG] next to filenames in output
 ```
